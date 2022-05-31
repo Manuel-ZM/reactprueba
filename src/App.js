@@ -68,7 +68,7 @@ const removeFields = (index) => {
               <button onClick={submit}>Guardar</button>
       </form>
       <div>
-        <link url="https://www.w3schools.com/html/html_form_input_types.asp"> los tipos de input de datos</link>
+      <a href="https://www.w3schools.com/html/html_form_input_types.asp" className=' text-red-500'> los tipos de input de datos</a>
       </div>
     </div>
   );
